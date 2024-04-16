@@ -1,4 +1,4 @@
-def suma(a, b)
+def suma(a, b):
     resultado = a + b
 
 num1 = input("Ingrese el primer número: ")
