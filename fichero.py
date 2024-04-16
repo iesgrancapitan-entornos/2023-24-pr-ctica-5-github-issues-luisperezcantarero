@@ -1,5 +1,6 @@
 def suma(a, b):
     resultado = a + b
+    return resultado
 
 num1 = input("Ingrese el primer número: ")
 num2 = input("Ingrese el segundo número: ")
